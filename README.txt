@@ -1,3 +1,53 @@
+English
+FableForge 0.1.0
+================
+
+Native creative writing suite for Windows: Markdown chapters, lore and
+timeline, character and object cards, and maps with brushes, layers, and embossing.
+
+INICIO RAPIDO
+-------------
+1. Open FableForge from the Start menu (or the desktop shortcut).
+
+2. On the Start menu, choose "Create Story," "Load Story," or "Import Story."
+
+3. Write in Chapters, organize the world in Lore and Timeline, create entries in Entities, and draw in Maps.
+
+4. Settings (gear icon): Spanish/English language, theme, colors, author profile, and folder where your stories are saved.
+
+WHERE EVERYTHING IS SAVED (100% LOCAL)
+---------------------------------
+Your stories are regular folders on your hard drive. By default, they are located in:
+Documents\FableForge\<Story Name>
+
+Each story contains:
+
+story.json Story details (title, author, etc.)
+01 - Lore and Timeline Lore events (Markdown + images)
+02 - Character and Object Character sheets, object sheets, and custom categories
+03 - Maps Maps (.ffmap.json) and sub-maps
+04 - Seasons Seasons and episodes (.md)
+05 - Media Custom images and assets (05 - Media\Assets)
+
+Your settings are saved in %APPDATA%\FableForge\user_settings.json.
+Nothing is sent to the internet or any server: your texts and maps are real files
+that you can copy, back up, or open with other programs.
+
+MAP ASSETS
+---------------
+Global PNGs go in the "assets\map_defaults" folder next to FableForge.exe,
+or in %APPDATA%\FableForge\global_assets. Single-story PNGs go in
+"05 - Media\Assets". If any folder is missing, FableForge will still work.
+
+RECOMMENDATION
+-------------
+Make regular backups of your story folder.
+
+---------------------------------------------------------------------------
+FableForge 0.1.0 - Native creative-writing suite for Windows. All your work is
+stored locally as plain files (Markdown / JSON) in Documents\FableForge.
+
+Español
 FableForge 0.1.0
 ================
 
