@@ -1,0 +1,2 @@
+[target.'cfg(all(windows, target_env = "msvc"))']
+rustflags = ["-Clink-arg=/DELAYLOAD:opengl32.dll", "-Clink-arg=delayimp.lib"]
