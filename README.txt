@@ -5,7 +5,7 @@ FableForge 0.1.0
 Native creative writing suite for Windows: Markdown chapters, lore and
 timeline, character and object cards, and maps with brushes, layers, and embossing.
 
-INICIO RAPIDO
+QUICK START
 -------------
 1. Open FableForge from the Start menu (or the desktop shortcut).
 
